@@ -148,7 +148,7 @@ const stackData = [
       background: #6587fc
 
       z-index: 0
-      transition: all 200ms
+      transition: all 201ms
 
       
 
